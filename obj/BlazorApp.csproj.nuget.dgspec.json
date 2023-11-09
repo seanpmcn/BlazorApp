@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\BlazorTutorial\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\Blazor\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\BlazorTutorial\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\Blazor\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\BlazorTutorial\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\Blazor\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\BlazorTutorial\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\Blazor\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\SeanM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\BlazorTutorial\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\SeanM\\OneDrive\\Documents\\Projects\\DotNet\\Blazor\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SeanM\\AppData\\Roaming\\NuGet\\NuGet.Config",
